@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**LsfSte/LsfSte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**
-
-# I'm Stefano! 👋
+# Hi there, I'm [Your Name] 👋
 
 ## About Me
 I'm a [Your Role] passionate about [Your Interests]. I love working on [Types of Projects] and learning new technologies.

@@ -17,6 +17,9 @@ Development from scratch of a simple videogame in Unity, using C# for coding.
 ### [VTVSOFTWARE](https://github.com/ste-lic/bsc-projects/tree/main/software-engineering/VTVSOFTWARE)
 This project is aimed at creating a web application for a TV agency. The code was written in Java, and the web application has been deployed using a web server (such as Tomcat or Jetty) and uses an H2 Database for data storage.
 
+### [Automation machinery for urban hydroponic vertical farm](link)
+This project's goal was to propose a solution to automate the first part of the growing process of a vertical urban hydroponic farm.
+
 ## 🏆 Achievements
 <!-- - [Certification 1]
 - [Award 1] -->

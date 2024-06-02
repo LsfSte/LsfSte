@@ -23,6 +23,6 @@ This project is aimed at creating a web application for a TV agency. The code wa
 - [Winner of NeaPolis Innovation Summer Campus 2020]
 
 ## 📫 Contact Me
-- [LinkedIn](Your LinkedIn URL)
-- [Personal Website](Your Website URL)
-- Email: [Your Email]
+- [LinkedIn](www.linkedin.com/in/stelic)
+<!-- - [Personal Website](Your Website URL)
+- Email: [Your Email] -->

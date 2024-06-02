@@ -20,7 +20,7 @@ This project is aimed at creating a web application for a TV agency. The code wa
 ## 🏆 Achievements
 <!-- - [Certification 1]
 - [Award 1] -->
-- [Winner of NeaPolis Innovation Summer Campus 2020]
+- [Winner of NeaPolis Innovation Summer Campus 2021]
 
 ## 📫 Contact Me
 - [LinkedIn](www.linkedin.com/in/stelic)

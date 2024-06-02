@@ -18,8 +18,8 @@ Development from scratch of a simple videogame in Unity, using C# for coding.
 This project is aimed at creating a web application for a TV agency. The code was written in Java, and the web application has been deployed using a web server (such as Tomcat or Jetty) and uses an H2 Database for data storage.
 
 ## 🏆 Achievements
-[//]: #- [Certification 1]
-[//]: # - [Award 1]
+<!-- - [Certification 1]
+- [Award 1] -->
 - [Winner of NeaPolis Innovation Summer Campus 2020]
 
 ## 📫 Contact Me

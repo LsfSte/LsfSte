@@ -10,7 +10,7 @@ I'm a MSc Student in Computer Science and Engineering. I love to be guided by my
 - **IDEs**: Eclipse, VisualStudio, Spyder, Oracle SQL Developer, CoDeSys, ChibiStudio
 
 ## 🚀 Projects
-### [Videogame development]([Project 1 URL](https://github.com/ste-lic/bsc-projects/tree/main/multimedia-systems))
+### [Videogame development](https://github.com/ste-lic/bsc-projects/tree/main/multimedia-systems)
 Development from scratch of a simple videogame in Unity, using C# for coding.
 
 

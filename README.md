@@ -19,7 +19,7 @@ This project is aimed at creating a web application for a TV agency. The code wa
 ### [Automation machinery for urban hydroponic vertical farm](https://github.com/ste-lic/bsc-projects/tree/main/computer-technologies-for-industrial-automation)
 This project's goal was to propose a solution to automate the first part of the growing process of a vertical urban hydroponic farm.
 
-### [NeaPolis Innovation Summer Campus 2021]
+### [NeaPolis Innovation Summer Campus 2021](https://github.com/ste-lic/bsc-projects/tree/main/neapolis-innovation-summer-campus-2021)
 Morse code communication between two STM32 Nucleo-64 F401RE development boards.
 
 ## 🏆 Achievements

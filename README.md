@@ -4,23 +4,23 @@
 I'm a MSc Student in Computer Science and Engineering. I love to be guided by my curiosity to discover new things that will keep my spark fueled!
 
 ## 🛠 Skills & Technologies
-- **Languages**: C++, C, C#, Java, Python, UML
+- **Languages**: C++, C, C#, Java, Python, UML, PL/SQL, SFC, Ladder
 - **Frameworks**: Unity
 - **Tools**: Git, Docker, SVN
-- **IDEs**: Eclipse, VisualStudio, Spyder, ChibiStudio
+- **IDEs**: Eclipse, VisualStudio, Spyder, Oracle SQL Developer, CoDeSys, ChibiStudio
 
 ## 🚀 Projects
-### [Project 1 Name](Project 1 URL)
-Description of Project 1 with a brief overview of the technologies used and its purpose.
+### [Videogame development]([Project 1 URL](https://github.com/ste-lic/bsc-projects/tree/main/multimedia-systems))
+Development from scratch of a simple videogame in Unity, using C# for coding.
 
 
 ### [VTVSOFTWARE](https://github.com/ste-lic/bsc-projects/tree/main/software-engineering/VTVSOFTWARE)
-Description of Project 2 with a brief overview of the technologies used and its purpose.
-This project is aimed at creating a web application for VTV, an agency specializing in recording current event videos and disseminating them to its clientele, which comprises journalists and news agencies. This application's objective is to facilitate video uploads by cameramen, enable TV service creation by editors, and provide clients with content search capabilities alongside notifications for new resources
+This project is aimed at creating a web application for a TV agency. The code was written in Java, and the web application has been deployed using a web server (such as Tomcat or Jetty) and uses an H2 Database for data storage.
 
 ## 🏆 Achievements
-- [Certification 1]
-- [Award 1]
+[//]: #- [Certification 1]
+[//]: # - [Award 1]
+- [Winner of NeaPolis Innovation Summer Campus 2020]
 
 ## 📫 Contact Me
 - [LinkedIn](Your LinkedIn URL)
